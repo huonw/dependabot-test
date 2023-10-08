@@ -1,7 +1,1 @@
-version: 2
-updates:
-  - package-ecosystem: "pip"
-    target-branch: "main"
-    directory: "/"
-    schedule:
-      interval: "daily"
+this is invalid yaml
